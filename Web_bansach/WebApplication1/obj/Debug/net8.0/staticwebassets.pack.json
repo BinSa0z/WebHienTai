@@ -1,0 +1,549 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\Source\\elegant_font.zip",
+      "PackagePath": "staticwebassets\\Source\\elegant_font.zip"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\Source\\plyr-master.zip",
+      "PackagePath": "staticwebassets\\Source\\plyr-master.zip"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\Source\\sass.zip"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\anime\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\anime\\review-1.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\anime\\review-2.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\anime\\review-3.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\anime\\review-4.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\anime\\review-5.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-5.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\anime\\review-6.jpg",
+      "PackagePath": "staticwebassets\\img\\anime\\review-6.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\details\\bd-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\details\\bd-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\details\\bd-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\bd-item-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\details\\blog-details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\details\\comment-1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-1.png"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\details\\comment-2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-2.png"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\blog\\details\\comment-3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-3.png"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\hero\\hero-3.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\hero\\hero-4.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\hero\\hero-5.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-5.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\hero\\hero-6.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-6.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\live\\live-1.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\live\\live-2.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\live\\live-3.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\live\\live-4.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\live\\live-5.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-5.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\live\\live-6.jpg",
+      "PackagePath": "staticwebassets\\img\\live\\live-6.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\normal-breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\normal-breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-1.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-10.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-10.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-11.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-11.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-2.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-3.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-4.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-5.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-5.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-6.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-6.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-7.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-7.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-8.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-8.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\popular\\popular-9.jpg",
+      "PackagePath": "staticwebassets\\img\\popular\\popular-9.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\recent\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\recent\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\recent\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\recent\\recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\recent\\recent-5.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\recent\\recent-6.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-6.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\recent\\recent-7.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-7.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\recent\\recent-8.jpg",
+      "PackagePath": "staticwebassets\\img\\recent\\recent-8.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\comment-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\comment-4.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\comment-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\tv-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\tv-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\tv-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\tv-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\tv-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\tv-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\tv-4.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\tv-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\sidebar\\tv-5.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\sidebar\\tv-5.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-1.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-10.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-10.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-11.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-11.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-12.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-12.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-2.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-3.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-4.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-4.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-5.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-5.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-6.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-6.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-7.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-7.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-8.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-8.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\img\\trending\\trend-9.jpg",
+      "PackagePath": "staticwebassets\\img\\trending\\trend-9.jpg"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\js\\player.js",
+      "PackagePath": "staticwebassets\\js\\player.js"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_anime-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_anime-details.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_anime-watching.scss",
+      "PackagePath": "staticwebassets\\sass\\_anime-watching.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_login.scss",
+      "PackagePath": "staticwebassets\\sass\\_login.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\_product.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_signup.scss",
+      "PackagePath": "staticwebassets\\sass\\_signup.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\videos\\1.mp4",
+      "PackagePath": "staticwebassets\\videos\\1.mp4"
+    },
+    {
+      "Id": "C:\\Studying\\Web_bansach\\WebApplication1\\wwwroot\\videos\\anime-watch.jpg",
+      "PackagePath": "staticwebassets\\videos\\anime-watch.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
